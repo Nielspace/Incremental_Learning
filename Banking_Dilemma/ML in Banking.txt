@@ -1,6 +1,7 @@
 ML in Banking
+
 Work Plan
-Clean the data—missing values, outliers
-Select important features using ‘sklearn.ensemble.feature_importance’
-Evaluate the model based on the already given label [Bad_label]
-Fraud dectection 
+        - Clean the data—missing values, outliers
+        - Select important features using ‘sklearn.ensemble.feature_importance’
+        - Evaluate the model based on the already given label [Bad_label]
+        - Fraud dectection 
